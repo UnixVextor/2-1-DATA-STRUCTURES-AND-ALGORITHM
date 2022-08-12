@@ -1,8 +1,8 @@
 # DATA STRUCTURE AND ALGOLITHM LAB
 - [x] Python1
 - [x] Python2
-- [x] Stack
-- [x] Queue
+- [ ] Stack
+- [ ] Queue
 - [ ] Linked List
 - [ ] Recursion
 - [ ] Tree 1 (Binary Search Tree)
