@@ -2,7 +2,7 @@
 จงเขียนฟังก์ชันเพื่อหาผลรวมของ 3 พจน์ใดๆใน Array ที่มีผลรวมเท่ากับ 0 
 สำหรับ Array ที่มีข้อมูลข้างในเป็นจำนวนจริง ***Array ต้องมีความยาวตั้งแต่ 3 จำนวนขึ้นไป***
 '''
-def threesum(num):
+def threeofsum(num):
     num.sort()
     result = []
     for i in range(0,len(num)):
@@ -17,6 +17,6 @@ def threesum(num):
 List = list(input("Enter Your List : ").split())
 List = [int(i) for i in List]
 if len(List) > 2:
-    print(threesum(List))
+    print(threeofsum(List))
 else:
     print("Array Input Length Must More Than 2")
