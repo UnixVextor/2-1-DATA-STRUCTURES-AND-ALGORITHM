@@ -1,7 +1,7 @@
 # DATA STRUCTURE AND ALGOLITHM LAB
 - [x] Python1
 - [x] Python2
-- [ ] Stack
+- [x] Stack
 - [ ] Queue
 - [ ] Linked List
 - [ ] Recursion
