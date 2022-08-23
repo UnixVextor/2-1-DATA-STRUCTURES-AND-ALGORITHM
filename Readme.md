@@ -2,7 +2,7 @@
 - [x] Python1
 - [x] Python2
 - [x] Stack
-- [ ] Queue
+- [x] Queue
 - [ ] Linked List
 - [ ] Recursion
 - [ ] Tree 1 (Binary Search Tree)

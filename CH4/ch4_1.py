@@ -25,6 +25,7 @@ isE = False
 q = Queue()
 de = Queue()
 dis = ''
+countEmpty = 0
 for i in inp:
     lst.extend(i.split())
 
@@ -46,9 +47,12 @@ for i in lst:
             print(p + ' <- '+ dis)
         
         else:
-            print('Empty')
+            countEmpty += 1
+            if(countEmpty < 2):
+                print('Empty')
 if de.isEmpty() and q.isEmpty():
     print('Empty : Empty')
+
 elif not q.isEmpty() and not de.isEmpty():
     print(', '.join(de.items) + ' : ' + ', '.join(q.items)) 
 elif not de.isEmpty() and q.isEmpty():
