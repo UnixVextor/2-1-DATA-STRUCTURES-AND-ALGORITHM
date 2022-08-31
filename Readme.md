@@ -3,7 +3,7 @@
 - [x] Python2
 - [x] Stack
 - [x] Queue
-- [ ] Linked List
+- [x] Linked List
 - [ ] Recursion
 - [ ] Tree 1 (Binary Search Tree)
 - [ ] Tree 2 (AVL)
