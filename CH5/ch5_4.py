@@ -1,3 +1,14 @@
+'''
+ให้ตรวจสอบว่า linked list มีการวนซ้ำหรือไม่ และ แสดงผลลัพธ์ตามตัวอย่าง
+
+โดยมีการรับ input ดังนี้
+
+1. append ->   A <int> คือ เพิ่มข้อมูลต่อท้าย linked list
+
+2. set_next -> S <index1(int):index2(str)> คือการ set node.next ของ node index ที่1 ให้ชี้ไป node index ที่2
+
+ซึ่งหากไม่มี  node index ที่1 ใน linked list ให้แสดง error และหากไม่มี node index ที่2 ใน linked list ให้ทำการ append nodeใหม่เข้าไปใน linked list โดยมี value = index2
+'''
 class Node:
     def __init__(self,data):
         self.data = data
