@@ -4,7 +4,7 @@
 - [x] Stack
 - [x] Queue
 - [x] Linked List
-- [ ] Recursion
+- [x] Recursion
 - [ ] Tree 1 (Binary Search Tree)
 - [ ] Tree 2 (AVL)
 - [ ] Sorting
