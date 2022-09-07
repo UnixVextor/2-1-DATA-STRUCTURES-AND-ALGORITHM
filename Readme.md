@@ -9,9 +9,9 @@
 - [ ] Tree 2 (AVL)
 - [ ] Sorting
 - [ ] Graph (Optional)
-- [ ] Exam #1 Python (basic+OOP)
-- [ ] ------------ SKIP -----------
-- [ ] Exam #2 Stack Queue Linked-List
-- [ ] Exam #3 Recursion Tree1
-- [ ] Exam #4 Tree2 Sort Search
-- [ ] Reserve #2
+- [ ] ------- Reserved ------
+- [ ] ------- Reserved ------
+- [X] Exam #1 Stack Queue Linked-List
+- [ ] Exam #2 Recursion Tree1
+- [ ] Exam #3 Tree2 Sort Search
+- [ ] Exam #4 Sort Search
