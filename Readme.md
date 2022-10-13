@@ -5,7 +5,7 @@
 - [x] Queue
 - [x] Linked List
 - [x] Recursion
-- [ ] Tree 1 (Binary Search Tree)
+- [X] Tree 1 (Binary Search Tree)
 - [ ] Tree 2 (AVL)
 - [ ] Sorting
 - [ ] Graph (Optional)

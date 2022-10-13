@@ -1,6 +1,3 @@
-from ntpath import join
-
-
 class Stack():
     def __init__(self):
         self.items = []
