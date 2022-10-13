@@ -1,3 +1,8 @@
+'''
+ให้น้องรับ input แล้วนำ input นั้นมาสร้าง Binary Search Tree โดย input ตัวแรกสุดจะเป็น Root เสมอ และหาค่าที่น้อยและมากที่สุดของ Binary Search Tree
+
+***** ห้ามใช้ Built-in Function เช่น min() , max() , sort() , sorted()
+'''
 class Node:
     def __init__(self, data):
         self.data = data

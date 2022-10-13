@@ -1,3 +1,4 @@
+'ให้น้องรับ input แล้วนำ input นั้นมาสร้าง Binary Search Tree โดย input ตัวแรกสุดจะเป็น Root เสมอ'
 class Node:
     def __init__(self, data):
         self.data = data

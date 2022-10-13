@@ -1,3 +1,4 @@
+'ให้น้องๆรับ input เป็น postfix จากนั้นให้แปลงเป็น Expression Tree , Infix และ Prefix  โดย Operator จะมีแค่ + - * /'
 class Node:
     def __init__(self,data):
         self.data = data
