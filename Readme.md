@@ -7,11 +7,12 @@
 - [x] Recursion
 - [X] Tree 1 (Binary Search Tree)
 - [ ] Tree 2 (AVL)
-- [ ] Sorting
+- [x] Sorting
+- [ ] Searching
 - [ ] Graph (Optional)
 - [ ] ------- Reserved ------
 - [ ] ------- Reserved ------
-- [X] Exam #1 Stack Queue Linked-List
-- [ ] Exam #2 Recursion Tree1
-- [ ] Exam #3 Tree2 Sort Search
+- [X] Exam #1 Stack Queue
+- [x] Exam #2 Linked List Recursion
+- [ ] Exam #3 Tree
 - [ ] Exam #4 Sort Search
