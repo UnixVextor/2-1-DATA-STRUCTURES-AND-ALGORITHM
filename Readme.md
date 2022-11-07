@@ -6,7 +6,7 @@
 - [x] Linked List
 - [x] Recursion
 - [X] Tree 1 (Binary Search Tree)
-- [ ] Tree 2 (AVL)
+- [x] Tree 2 (AVL)
 - [x] Sorting
 - [ ] Searching
 - [ ] Graph (Optional)
