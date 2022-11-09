@@ -14,5 +14,5 @@
 - [ ] ------- Reserved ------
 - [X] Exam #1 Stack Queue
 - [x] Exam #2 Linked List Recursion
-- [ ] Exam #3 Tree
+- [x] Exam #3 Tree
 - [ ] Exam #4 Sort Search
