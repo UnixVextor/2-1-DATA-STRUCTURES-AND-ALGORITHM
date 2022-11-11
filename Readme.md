@@ -9,9 +9,9 @@
 - [x] Tree 2 (AVL)
 - [x] Sorting
 - [x] Searching
-- ~~[ ] Graph (Optional)~~
-- ~~[ ] ------- Reserved ------~~
-- ~~[ ] ------- Reserved ------~~
+- [ ] ~~Graph (Optional)~~
+- [ ] ~~------- Reserved ------~~
+- [ ] ~~------- Reserved ------~~
 - [X] Exam #1 Stack Queue
 - [x] Exam #2 Linked List Recursion
 - [x] Exam #3 Tree
